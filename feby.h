@@ -1,0 +1,7 @@
+
+
+
+
+void dolar ();
+void rupiah ();
+
